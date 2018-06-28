@@ -3,7 +3,7 @@
 
 ### LED 二极管
 - 二极管与单片机连接图
- <img src="https://github.com/HumerAssassin/HappyinC51/raw/master/readmeImage/s1.jpg">
+ <img src="https://github.com/HumerAssassin/HappyinC51/raw/master/ReadmeImage/s1.jpg">
 - led1.c  点亮第一个二极管
 - led2.c  第一个二极管间隔1s闪烁
 - led3.c  调用函数，使第一个二极管间隔500ms闪烁
@@ -12,4 +12,4 @@
 
 ### Digital Tube 数码管
 - 数码管与单片机连接图
- <img src="https://github.com/HumerAssassin/HappyinC51/raw/master/readmeImage/s2.png">
+ <img src="https://github.com/HumerAssassin/HappyinC51/raw/master/ReadmeImage/s2.png">
